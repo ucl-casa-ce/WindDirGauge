@@ -10,7 +10,7 @@
  
  ![Screen](https://github.com/ucl-casa-ce/WindDirGauge/blob/main/winddirgaugeexample.JPG)
  
- The code can be used to create any gauge with a 360 degree range, see comments in file to set up details.
+ The code can be used to create any gauge with a 360 degree range, see comments in the .ino file for set up and calibration details.
  
  
  
