@@ -150,7 +150,7 @@ Serial.print("Message arrived in topic: ");
 // Convert the data to integer
   int wind = atoi((char *)payload);
 
-// Map the data value to an angle - this value needs to be edit to calibrate your servo
+// Map the data value to an angle - this value needs to be edited to calibrate your servo
 
   angle = map(wind, 4, 360, 0, 180);
   
