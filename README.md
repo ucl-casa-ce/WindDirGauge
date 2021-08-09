@@ -1,6 +1,6 @@
 # Wind Direction Gauge  - Arduino 
 
- 360 degree example using a Wind Direction feed on the 3D printed MQTT Gauge. 
+ Arduino Code for the 360 Degree Gauge - eg Wind Direction
  
  
 ![Screen](https://github.com/ucl-casa-ce/WindDirGauge/blob/main/windvaneexample.JPG)
